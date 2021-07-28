@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.deeplink",
+    "package_name": "com.naver.linewebtoon",
     "sha256_cert_fingerprints":
-    ["F2:96:04:B6:CD:BA:4D:E4:28:3D:D7:13:5F:D4:5E:44:AB:D9:A1:2E:5F:31:97:1D:3A:69:C8:8A:AB:B9:9E:D4"]
+    ["B0:3E:83:A8:83:0B:84:0A:DE:07:0B:40:05:6D:FF:1D:A5:AA:33:E2:3F:F1:B1:3E:ED:19:89:7B:CE:68:84:32"]
   }
 }]
